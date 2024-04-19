@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "uP/t/SxhrhAGTjShkfnBENU23Sp1ltkesodf/nNprBc=",
+  "Source": "Talapat.Api",
+  "BasePath": "_content/Talapat.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talapat.Api\\wwwroot",
+      "Source": "Talapat.Api",
+      "ContentRoot": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.Api\\wwwroot\\",
+      "BasePath": "_content/Talapat.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.Api\\wwwroot\\Images\\image1.png",
+      "SourceId": "Talapat.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.Api\\wwwroot\\",
+      "BasePath": "_content/Talapat.Api",
+      "RelativePath": "Images/image1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\image1.png"
+    }
+  ]
+}

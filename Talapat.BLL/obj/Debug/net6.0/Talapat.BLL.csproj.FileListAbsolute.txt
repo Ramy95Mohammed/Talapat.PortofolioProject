@@ -1,0 +1,15 @@
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\bin\Debug\net6.0\Talapat.BLL.deps.json
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\bin\Debug\net6.0\Talapat.BLL.dll
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\bin\Debug\net6.0\Talapat.BLL.pdb
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\bin\Debug\net6.0\Talapat.DAL.dll
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\bin\Debug\net6.0\Talapat.DAL.pdb
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\Talapat.BLL.csproj.AssemblyReference.cache
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\Talapat.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\Talapat.BLL.AssemblyInfoInputs.cache
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\Talapat.BLL.AssemblyInfo.cs
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\Talapat.BLL.csproj.CoreCompileInputs.cache
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\Talapat.BLL.csproj.CopyComplete
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\Talapat.BLL.dll
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\refint\Talapat.BLL.dll
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\Talapat.BLL.pdb
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.BLL\obj\Debug\net6.0\ref\Talapat.BLL.dll

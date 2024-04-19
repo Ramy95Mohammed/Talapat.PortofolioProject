@@ -1,0 +1,12 @@
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\bin\Debug\net6.0\Talapat.DAL.deps.json
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\bin\Debug\net6.0\Talapat.DAL.dll
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\bin\Debug\net6.0\Talapat.DAL.pdb
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\obj\Debug\net6.0\Talapat.DAL.csproj.AssemblyReference.cache
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\obj\Debug\net6.0\Talapat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\obj\Debug\net6.0\Talapat.DAL.AssemblyInfoInputs.cache
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\obj\Debug\net6.0\Talapat.DAL.AssemblyInfo.cs
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\obj\Debug\net6.0\Talapat.DAL.csproj.CoreCompileInputs.cache
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\obj\Debug\net6.0\Talapat.DAL.dll
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\obj\Debug\net6.0\refint\Talapat.DAL.dll
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\obj\Debug\net6.0\Talapat.DAL.pdb
+C:\Users\YN\OneDrive\Desktop\Asp.netCoreProjects\Talapat.PortofolioProject\Talapat.DAL\obj\Debug\net6.0\ref\Talapat.DAL.dll

@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.Api\\Talapat.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.Api\\Talapat.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.Api\\Talapat.Api.csproj",
+        "projectName": "Talapat.Api",
+        "projectPath": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.Api\\Talapat.Api.csproj",
+        "packagesPath": "C:\\Users\\YN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.Api\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\c# Course\\DevExpress GridControl\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.BLL\\Talapat.BLL.csproj": {
+                "projectPath": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.BLL\\Talapat.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.BLL\\Talapat.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.BLL\\Talapat.BLL.csproj",
+        "projectName": "Talapat.BLL",
+        "projectPath": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.BLL\\Talapat.BLL.csproj",
+        "packagesPath": "C:\\Users\\YN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\c# Course\\DevExpress GridControl\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.DAL\\Talapat.DAL.csproj": {
+                "projectPath": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.DAL\\Talapat.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.DAL\\Talapat.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.DAL\\Talapat.DAL.csproj",
+        "projectName": "Talapat.DAL",
+        "projectPath": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.DAL\\Talapat.DAL.csproj",
+        "packagesPath": "C:\\Users\\YN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YN\\OneDrive\\Desktop\\Asp.netCoreProjects\\Talapat.PortofolioProject\\Talapat.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\c# Course\\DevExpress GridControl\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.20, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[43.18.0-beta.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
